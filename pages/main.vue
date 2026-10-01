@@ -94,7 +94,7 @@ export default {
       loading: false,
       isActive: false,
       count: 0,
-      finalCount: 1, // Only send once
+      finalCount: 2, // Only send once
     };
   },
   methods: {
